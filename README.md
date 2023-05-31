@@ -1,0 +1,2 @@
+# Automated-Classification-of-Animal-Vocalization-into-Estrus-and-Non-Estrus-Phase
+Extraction of important features from the audio data was done, creating mel-spectrograms for the same, and utilising different machine learning and neural network models to perform an analysis for the same. CNN, RNN, CRNN and ResNet34 models were explored for  the analysis of deep learning models in animal vocalization classification
